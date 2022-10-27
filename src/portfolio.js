@@ -156,14 +156,8 @@ const workExperiences = {
       company: "Nagarro",
       companylogo: require("./assets/images/nagarro.jpg"),
       date: "Aug 2021 – Present",
-      desc: "Nagarro is a software development and technology consulting company with offices around the world and presence in USA, Europe, India, and China. ",
-      descBullets: [
-        "Leading design and development of robust and scalable front end applications for client in logistics domain.",
-        " Currently leading team of 4 developers",
-       " Building custom UI libraries for clients. Extensively worked on styled components, storybook - UI library for building customised components",
-       " Building reusable components and front-end libraries for future  use -Developing and enhancing user-facing features using React in accordance with design and consistent with business objectives",
-        "Write unit and integration tests."
-      ]
+      desc: "Leading design and development of robust and scalable front end applications for client in logistics domain . Currently leading team of 4 developers"
+
     },
     {
       role: "Technical Lead",
@@ -228,7 +222,7 @@ const bigProjects = {
       ]
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
