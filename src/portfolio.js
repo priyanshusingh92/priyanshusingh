@@ -102,7 +102,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Uttar Pradesh Technical University",
-      logo: require("./assets/images/uptu.png"),
+      logo: require("./assets/images/uptu.PNG"),
       subHeader: "Bachelor's Degree in Electronics & Instrumentation",
       duration: "September 2010 - June 2014",
       desc: "Secured 72% in 8 semesters",
