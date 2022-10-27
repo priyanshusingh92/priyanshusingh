@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "972b9d5774f6f43f78c9329ec9775bdb",
+    "revision": "071d69d4e4c8d2c081b1f5575cee02b1",
     "url": "/index.html"
   },
   {
-    "revision": "f9527c24d14000961155",
+    "revision": "80379d22d98cfd51b8ee",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
@@ -12,32 +12,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "781261792aa9e2712f41",
+    "revision": "43b95a0cfd48fa0c9c31",
     "url": "/static/css/main.52a26c30.chunk.css"
   },
   {
-    "revision": "52adeae056931d282839",
-    "url": "/static/js/2.705ca785.chunk.js"
+    "revision": "b43ed5307065cf79ad97",
+    "url": "/static/js/2.fe3e1da2.chunk.js"
   },
   {
     "revision": "b045256696e9edb485ef902b6be54c14",
-    "url": "/static/js/2.705ca785.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.fe3e1da2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f9527c24d14000961155",
-    "url": "/static/js/3.6bb4b2b8.chunk.js"
+    "revision": "80379d22d98cfd51b8ee",
+    "url": "/static/js/3.39d113aa.chunk.js"
   },
   {
     "revision": "6ca279f80a55edded95a",
     "url": "/static/js/4.a11c632d.chunk.js"
   },
   {
-    "revision": "781261792aa9e2712f41",
-    "url": "/static/js/main.6be49835.chunk.js"
+    "revision": "43b95a0cfd48fa0c9c31",
+    "url": "/static/js/main.aa4277f3.chunk.js"
   },
   {
-    "revision": "ad4807f433e0cc6f12fa",
-    "url": "/static/js/runtime-main.9d3f2436.js"
+    "revision": "fded0c4d05d9aa718181",
+    "url": "/static/js/runtime-main.d2142982.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -46,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
-  },
-  {
-    "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
-    "url": "/static/media/airbnbLogo.c59720d6.png"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
@@ -64,47 +60,51 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/developerActivity.59389695.svg"
   },
   {
-    "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
-    "url": "/static/media/facebookLogo.8ddf76a1.png"
+    "revision": "82c509aecba695e143939c22283778ee",
+    "url": "/static/media/expense.82c509ae.png"
+  },
+  {
+    "revision": "79d5fd582518bc80fcb7593815522015",
+    "url": "/static/media/food.79d5fd58.png"
   },
   {
     "revision": "e79c639294c805688be731921368c8f8",
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "35ef5e915631be2c31ccdff55b53db29",
-    "url": "/static/media/harvardLogo.35ef5e91.png"
+    "revision": "12b85e411c92b5e767fce8b9a874d23b",
+    "url": "/static/media/hcl.12b85e41.jpeg"
+  },
+  {
+    "revision": "54eb2225bdefc9d523277d4670c7190d",
+    "url": "/static/media/infosys.54eb2225.jpg"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/static/media/nextuLogo.829ad0a1.webp"
+    "revision": "f00d81b09ca7bf908b6d511a4f5490a7",
+    "url": "/static/media/nagarro.f00d81b0.jpg"
   },
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/static/media/pwaLogo.ee62cb58.webp"
   },
   {
-    "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
-    "url": "/static/media/quoraLogo.4b2938b9.png"
-  },
-  {
-    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
-    "url": "/static/media/saayaHealthLogo.25018d29.webp"
-  },
-  {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
   },
   {
-    "revision": "3b758ef56d398145542e137daa28e392",
-    "url": "/static/media/stanfordLogo.3b758ef5.png"
-  },
-  {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
     "url": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  {
+    "revision": "bfc7fdcd50719c8c5ae8d9ba0cb8ba4c",
+    "url": "/static/media/tcs.bfc7fdcd.jpg"
+  },
+  {
+    "revision": "54b1b5a7fc9df2538e6a6ef408aeb742",
+    "url": "/static/media/uptu.54b1b5a7.PNG"
   }
 ]);
