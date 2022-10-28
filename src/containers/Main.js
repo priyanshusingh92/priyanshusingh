@@ -19,6 +19,7 @@ import {splashScreen} from "../portfolio";
 import {StyleProvider} from "../contexts/StyleContext";
 import {useLocalStorage} from "../hooks/useLocalStorage";
 import "./Main.scss";
+import Footer from "../components/footer/Footer";
 
 const Main = () => {
   const darkPref = window.matchMedia("(prefers-color-scheme: dark)");
@@ -63,6 +64,7 @@ const Main = () => {
             <Twitter />
             <Podcast />
             <Profile />
+            <Footer />
             <ScrollToTopButton />
           </>
         )}
