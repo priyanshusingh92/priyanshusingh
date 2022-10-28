@@ -197,7 +197,7 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/food.png"),
-      projectName: "Food Ordering App - Priyanshu's Kitchen",
+      projectName: "Food Ordering App",
       projectDesc: "Small food ordering app built in React.js utilizing concepts like Redux, Context ,State etc.",
       footerLink: [
         {
@@ -232,51 +232,41 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "70-480",
       subtitle:
-        "To be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "70-480 Programming in HTML5 with JavaScript and CSS3",
+      image: require("./assets/images/microsoft.jpg"),
+      imageAlt: "Microsoft Logo",
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          url: "https://www.linkedin.com/in/priyanshu1singh/overlay/1589810433857/single-media-viewer/"
         }
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "98-383",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+        "Introduction to Programming using HTML & CSS",
+      image: require("./assets/images/microsoft.jpg"),
+      imageAlt: "Microsoft Logo",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "Certification",
+          url: "https://www.linkedin.com/in/priyanshu1singh/overlay/1589810398569/single-media-viewer/"
         }
       ]
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      title: "A team Award",
+      subtitle: "A team award for outstanding performance and exceptional work ",
+      image: require("./assets/images/nagarro.jpg"),
+      imageAlt: "Nagarro Logo",
       footerLink: [
-        {name: "Certification", url: ""},
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
+        {name: "Award Letter 2022", url: "https://www.linkedin.com/feed/update/urn:li:activity:6971042119167692800/"}
+        {name: "Award Letter 2021", url: "https://www.linkedin.com/in/priyanshu1singh/overlay/1635476443814/single-media-viewer/"}
+
       ]
     }
   ],
