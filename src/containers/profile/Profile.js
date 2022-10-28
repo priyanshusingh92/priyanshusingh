@@ -36,17 +36,11 @@ export default function Profile() {
       getProfileData();
     }
   }, [prof]);
-  if (
-    openSource.display &&
-    openSource.showGithubProfile === "true"    
-  ) {
+
     return (
       <Suspense fallback={renderLoader()}>
         <GithubProfileCard />
-        <Contact />;
       </Suspense>
     );
-  } else {
-    return <Contact />;
-  }
+
 }
