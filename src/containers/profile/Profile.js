@@ -35,7 +35,7 @@ export default function Profile() {
       };
       getProfileData();
     }
-  }, []);
+  }, [prof]);
   if (
     openSource.display &&
     openSource.showGithubProfile === "true"    
