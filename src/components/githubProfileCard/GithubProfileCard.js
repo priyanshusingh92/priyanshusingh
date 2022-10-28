@@ -42,6 +42,16 @@ export default function GithubProfileCard() {
                 Open for opportunities: Yes
               </span>
             </div>
+            <div className="opp-div">
+              <span className="desc-prof">
+               +91-8668540424
+              </span>
+            </div>
+            <div className="opp-div">
+              <span className="desc-prof">
+               singhpriyanshu896@gmail.com
+              </span>
+            </div>
             <SocialMedia />
           </div>
           <div className="image-content-profile">
