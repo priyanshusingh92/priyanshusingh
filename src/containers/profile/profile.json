@@ -1,0 +1,12 @@
+{
+    "data": {
+        "user": {
+            "id": "Gghg",
+            "name": "Priyanshu Singh",
+            "avatarUrl": "./photo.jpeg",
+            "location": "Noida,India",
+            "hireable": "Yes",
+            "bio":" Associate Staff Engineer @Nagarro | Still Finding 💭"
+        }
+    }
+}
