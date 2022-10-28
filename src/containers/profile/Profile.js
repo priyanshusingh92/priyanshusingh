@@ -43,6 +43,7 @@ export default function Profile() {
     return (
       <Suspense fallback={renderLoader()}>
         <GithubProfileCard />
+        <Contact />;
       </Suspense>
     );
   } else {
