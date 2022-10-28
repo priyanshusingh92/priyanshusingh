@@ -264,7 +264,7 @@ const achievementSection = {
       image: require("./assets/images/nagarro.jpg"),
       imageAlt: "Nagarro Logo",
       footerLink: [
-        {name: "Award Letter 2022", url: "https://www.linkedin.com/feed/update/urn:li:activity:6971042119167692800/"}
+        {name: "Award Letter 2022", url: "https://www.linkedin.com/feed/update/urn:li:activity:6971042119167692800/"},
         {name: "Award Letter 2021", url: "https://www.linkedin.com/in/priyanshu1singh/overlay/1635476443814/single-media-viewer/"}
 
       ]
