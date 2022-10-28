@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.0b73f752.chunk.css",
-    "main.js": "/static/js/main.04021a4d.chunk.js",
-    "main.js.map": "/static/js/main.04021a4d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.32ae1131.js",
-    "runtime-main.js.map": "/static/js/runtime-main.32ae1131.js.map",
+    "main.js": "/static/js/main.50b96280.chunk.js",
+    "main.js.map": "/static/js/main.50b96280.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.185e2e8f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.185e2e8f.js.map",
     "static/js/2.4e207b10.chunk.js": "/static/js/2.4e207b10.chunk.js",
     "static/js/2.4e207b10.chunk.js.map": "/static/js/2.4e207b10.chunk.js.map",
     "static/css/3.df879eac.chunk.css": "/static/css/3.df879eac.chunk.css",
-    "static/js/3.01da6e7b.chunk.js": "/static/js/3.01da6e7b.chunk.js",
-    "static/js/3.01da6e7b.chunk.js.map": "/static/js/3.01da6e7b.chunk.js.map",
+    "static/js/3.754344ac.chunk.js": "/static/js/3.754344ac.chunk.js",
+    "static/js/3.754344ac.chunk.js.map": "/static/js/3.754344ac.chunk.js.map",
     "static/css/4.d7ceb645.chunk.css": "/static/css/4.d7ceb645.chunk.css",
-    "static/js/4.7e77a6e9.chunk.js": "/static/js/4.7e77a6e9.chunk.js",
-    "static/js/4.7e77a6e9.chunk.js.map": "/static/js/4.7e77a6e9.chunk.js.map",
+    "static/js/4.1392fd0b.chunk.js": "/static/js/4.1392fd0b.chunk.js",
+    "static/js/4.1392fd0b.chunk.js.map": "/static/js/4.1392fd0b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b48ce66621d75391ed6465dfb2e3f8be.js": "/precache-manifest.b48ce66621d75391ed6465dfb2e3f8be.js",
+    "precache-manifest.a2a321e4905d22dd9c7b452005b23be6.js": "/precache-manifest.a2a321e4905d22dd9c7b452005b23be6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.d7ceb645.chunk.css.map": "/static/css/4.d7ceb645.chunk.css.map",
@@ -30,15 +30,16 @@
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/microsoft.jpg": "/static/media/microsoft.1483c90a.jpg",
     "static/media/nagarro.jpg": "/static/media/nagarro.f00d81b0.jpg",
+    "static/media/photo.jpg": "/static/media/photo.2ac2da91.jpg",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
     "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg",
     "static/media/tcs.jpg": "/static/media/tcs.bfc7fdcd.jpg",
     "static/media/uptu.PNG": "/static/media/uptu.54b1b5a7.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.32ae1131.js",
+    "static/js/runtime-main.185e2e8f.js",
     "static/js/2.4e207b10.chunk.js",
     "static/css/main.0b73f752.chunk.css",
-    "static/js/main.04021a4d.chunk.js"
+    "static/js/main.50b96280.chunk.js"
   ]
 }
