@@ -38,12 +38,11 @@ export default function Profile() {
   }, []);
   if (
     openSource.display &&
-    openSource.showGithubProfile === "true" &&
-    !(typeof prof === "string" || prof instanceof String)
+    openSource.showGithubProfile === "true"    
   ) {
     return (
       <Suspense fallback={renderLoader()}>
-        <GithubProfileCard prof={prof} key={prof.id} />
+        <GithubProfileCard />
       </Suspense>
     );
   } else {
