@@ -149,7 +149,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Associate Staff Engineer",
+      role: "Staff Engineer",
       company: "Nagarro",
       companylogo: require("./assets/images/nagarro.jpg"),
       date: "Aug 2021 – Present",
