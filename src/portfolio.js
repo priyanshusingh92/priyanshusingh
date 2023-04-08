@@ -196,13 +196,24 @@ const bigProjects = {
   subtitle: "FEW OF THE PROJECTS THAT I CREATED ",
   projects: [
     {
+      image: require("./assets/images/youtube.png"),
+      projectName: "Youtube Clone",
+      projectDesc: "Clone website youtube.com built using React.js, Redux , React router , Tailwindcss (live chat , search results and real time data)",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://youtube-clone-live.netlify.app"
+        }
+      ]
+    },
+    {
       image: require("./assets/images/food.png"),
       projectName: "Food Ordering App",
       projectDesc: "Small food ordering app built in React.js utilizing concepts like Redux, Context ,State etc.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://silver-tanuki-d41100.netlify.app"
+          url: "https://foodorder-ui.netlify.app/"
         }
         //  you can add extra buttons here.
       ]
@@ -214,7 +225,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://dazzling-dieffenbachia-a66714.netlify.app"
+          url: "https://expense-tracker-ui.netlify.app"
         }
       ]
     }
