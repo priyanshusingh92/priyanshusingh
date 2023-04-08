@@ -22,9 +22,9 @@ const illustration = {
 const greeting = {
   username: "Priyanshu Singh",
   title: "Hi all, I'm Priyanshu",
-  subTitle: emoji(
+  subTitle: 
     "A passionate Front End Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
-  ),
+  ,
   resumeLink:
     "https://drive.google.com/file/d/1e2qRBpQrlrOPJbSj45qMf2Y64kroEBBl/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
