@@ -48,10 +48,9 @@ const skillsSection = {
   title: "What I do",
   subTitle: "FRONT END DEVELOPER WHO BUILDS STUFF",
   skills: [
-    emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
-    ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    ,
+   "⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks",
 
   ],
 
@@ -237,7 +236,7 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji("Achievements And Certifications 🏆 "),
+  title:"Achievements And Certifications 🏆 ",
   subtitle:
     "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
 
@@ -312,9 +311,8 @@ const blogSection = {
 
 const talkSection = {
   title: "TALKS",
-  subtitle: emoji(
-    "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
-  ),
+  subtitle:    "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
+  ,
 
   talks: [
     {
@@ -330,7 +328,7 @@ const talkSection = {
 // Podcast Section
 
 const podcastSection = {
-  title: emoji("Podcast 🎙️"),
+  title: "Podcast 🎙️",
   subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
 
   // Please Provide with Your Podcast embeded Link
@@ -341,7 +339,7 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
+  title: "Contact Me ☎️",
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+91-8668540424",
